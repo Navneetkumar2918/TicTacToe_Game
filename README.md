@@ -43,7 +43,7 @@ tic-tac-toe-game/
 ## 🎯 How to Run Locally
 
 1. Download or clone the repository:
-git clone https://github.com/your-username/tic-tac-toe-game.git
+https://github.com/Navneetkumar2918/TicTacToe_Game
 
 2. Open the project folder.
 
