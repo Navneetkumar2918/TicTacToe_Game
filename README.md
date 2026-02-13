@@ -6,7 +6,7 @@ A simple and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-(After enabling GitHub Pages, paste your live link here)
+https://tictactoegamenavneet.netlify.app/
 
 ---
 
